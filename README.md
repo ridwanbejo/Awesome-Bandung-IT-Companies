@@ -62,7 +62,7 @@
 
 ### A.5. Game Studio & Augmented / Mixed / Virtual Reality
 
-- Agate Studio
+- [Agate Studio](https://agate.id/)
 - Digital Happiness
 - Arsanesia
 - Own Games
