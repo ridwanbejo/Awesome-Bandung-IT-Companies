@@ -63,10 +63,10 @@
 ### A.5. Game Studio & Augmented / Mixed / Virtual Reality
 
 - [Agate Studio](https://agate.id/)
-- Digital Happiness
-- Arsanesia
-- Own Games
-- Night Spades
+- [Digital Happiness](https://www.digitalhappiness.net/)
+- [Arsanesia](https://arsanesia.com/)
+- [Own Games](https://own-games.com/)
+- [Night Spades](https://www.nightspade.com/)
 - [Dragon Emperors](https://dragonemperors.com/#home)
 - [Octagon Studio](https://octagon.studio/)
 - [Assemblr World](https://www.assemblrworld.com/)
@@ -80,15 +80,15 @@
 
 ### A.6. Crowdsourcing
 
-- Trakteer
+- [Trakteer](https://trakteer.id/)
 - [Bizpro](https://bizpro.id/)
 
 
 ### A.7. Coding Bootcamp and Training
 
-- Dicoding
-- Codepolitan
-- Cilsy Fiolution
+- [Dicoding](https://www.dicoding.com/)
+- [Codepolitan](https://www.codepolitan.com/)
+- [Cilsy Fiolution](https://www.cilsyfiolution.com/)
 - Edureka
 - [Intelligo](https://intelligo.id)
 
