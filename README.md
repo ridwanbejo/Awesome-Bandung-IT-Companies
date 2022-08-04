@@ -144,7 +144,7 @@ We believe that there are so many IT companies which are running their business 
 - [Rolling Glory](https://rollingglory.com/)
 - [LAPI Divusi](https://divusi.co.id/)
 - [Braga Technologies](https://braga.co.id/)
-- [Boleh Dicoba](https://bolehdicoba.com/)
+- [Boleh Dicoba Digital](https://bolehdicoba.com/)
 - [Tricada Intronik](https://tritronik.com/)
 - [Jabar Digital Service](https://digitalservice.jabarprov.go.id/)
 - [Kazee](https://kazee.id/)
@@ -308,20 +308,27 @@ We believe that there are so many IT companies which are running their business 
 - [Kaloli](https://kaloli.id/)
 - [Farmasee](https://farmasee.id/)
 - [Tweak](https://tweakindonesia.id/)
+- [InovaMedika](https://www.inovamedika.com/)
 
 ### A.16. Music Technology
 
 - [Kuassa]()
 - [Svara](https://svara.id/)
 
-### A.17. Cloud Computing
+### A.17. Cloud Computing / Web Hosting
 
 - [QWords](https://www.qwords.com/)
 - [Widehost Media](https://widehostmedia.com/)
+- [Rumah Hosting](https://rumahhosting.com/hosting-murah)
 
 ### A.18. Education Technology
 
 - [Fammi](https://fammi.ly/)
+- [MyDigiLearn](https://mydigilearn.id/about-us)
+
+### A.19. Telecommunication
+
+- [P.T. Inti](https://www.inti.co.id)
 
 ## B. Open Branch Office at Bandung
 
@@ -370,6 +377,18 @@ We believe that there are so many IT companies which are running their business 
 ### B.7. Shipping Agency
 
 - [Paxel](https://paxel.co/)
+
+### B.8. Telecommunication
+
+- [Telkom Indonesia](https://telkom.co.id)
+
+### B.9. Internet of Things
+
+- [PINS](https://www.pins.co.id/#/nav/contact)
+
+### B.10. Cloud Computing / Web Hosting
+
+- [Telkom Sigma](https://www.telkomsigma.co.id/)
 
 
 # References
