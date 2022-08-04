@@ -2,7 +2,30 @@
 
 ## About the docs
 
-Bandung Greater Area is a region in West Java which is consists of Bandung City, Cimahi City, West Bandung Regency and Bandung Regency. The Greater Area is notorious for having some reputable university such as Institut Teknologi Bandung (ITB), Universitas Padjadjaran (UNPAD), Universitas Pendidikan Indonesia (UPI), Politeknik Negeri Bandung (Polban) Telkom University, Maranatha Christian University, Parahyangan Catholic University, Universitas Komputer Indonesia, Universitas Widayatama and many others which providing programme for Information Technology degree. Ranging from associate degree (D3) to doctoral (S3). That means Bandung Greater Area is potential IT hub that become source of workforces for Information Technology industry in Indonesia.
+Bandung Greater Area is a region in West Java which is consists of Bandung City, Cimahi City, West Bandung Regency and Bandung Regency. The Greater Area is notorious for having some reputable university such as:
+
+-  Institut Teknologi Bandung (ITB)
+-  Universitas Padjadjaran (UNPAD)
+-  Universitas Pendidikan Indonesia (UPI)
+-  Univesitas Islam Negeri Sunan Gunung Djati (UIN SGD)
+-  Politeknik Negeri Bandung (Polban)
+-  Politeknik Pos Indonesia (Poltekpos)
+-  Telkom University (Tel-U)
+-  Universitas Maranatha
+-  Universitas Katolik Parahyangan (UNPAR)
+-  Universitas Komputer Indonesia (UNIKOM)
+-  Universitas Widayatama
+-  Universitas Pasundan (UNPAS)
+-  Institut Teknologi Nasional (ITENAS)
+-  Institut Teknologi Harapan Bangsa (ITHB)
+-  Universitas Nasional Pasim
+-  Universitas Informatika dan Bisnis Indonesia (UNIBI)
+-  Politeknik Piksi Ganesha
+-  Politeknik Pajajaran
+-  LPKIA
+-  and many others
+
+Those universities are providing programme for Information Technology degree. Ranging from associate degree (D3) to doctoral (S3). That means Bandung Greater Area is potential IT hub that become source of workforces for Information Technology industry in Indonesia.
 
 We hope by maintain this documentation, you can find your interesting to employer in Bandung if you are a jobseeker. For businesses, both international or national scale, we hope you can find right business partner from Bandung. For students, we hope you can find a place for your internship or company when you graduate from your school or University.
 
