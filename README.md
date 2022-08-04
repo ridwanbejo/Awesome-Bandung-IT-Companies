@@ -162,7 +162,6 @@
 - [KawanKerja](https://kawankerja.id/)
 - [Ordent](https://ordent.co/)
 - [MKITech](http://www.mkitech.co.id/)
-- [DevStack](https://www.devstack.com.au/)
 - [Jalameta](https://jalameta.co.id/home)
 - [Motio Labs](https://www.motiolabs.com/)
 - [Abercode](https://abercode-software.com/)
@@ -305,36 +304,37 @@
 
 ### B.3. Educational Technology
 
-- RuangGuru
-- Solve Education
+- [RuangGuru](https://www.ruangguru.com)
+- [Solve Education](https://solveeducation.org/)
 
 ### B.4. Software As a Service
 
-- Avana
-- Astronaut
+- [Avana](https://avana.id/)
+- [Astronaut](https://astrnt.co/)
 
 ### B.5. Healthcare Technology
 
-- NiceDay Nederland
-- Attenza.nl
-- Mitla IT Laboratory
+- [NiceDay Nederland](https://nicedaynederland.nl/en/about-us/)
+- [Attenza.nl](https://www.attenza.nl/over-attenza/)
+- [Mitla IT Laboratory Indonesia](https://mitla.co.id/)
 
 ### B.6. IT Services & Consulting:
 
-- Xtremax
-- GeekSeat
-- Mitrais
-- D-Shore
-- Vox Teneo Asia
-- EBDesk
-- Formulatrix
-- Rekadia Solusi Teknologi
+- [Xtremax](https://xtremax.com/)
+- [GeekSeat](https://www.geekseat.com.au/)
+- [DevStack](https://www.devstack.com.au/)
+- [Mitrais](https://www.mitrais.com/)
+- [D-Shore](https://d-shore.nl/en/)
+- [Vox Teneo Asia](https://www.voxteneo.com/)
+- [EBDesk](https://www.ebdesk.com/)
+- [Formulatrix](https://formulatrix.com/careers/indonesia/)
+- [Rekadia Solusi Teknologi](https://www.rekadia.co.id/)
 - [Toppan Ecquaria](https://toppanecquaria.com/)
 - [Dropsuite](https://dropsuite.com/)
 
 ### B.7. Shipping Agency
 
-- Paxel
+- [Paxel](https://paxel.co/)
 
 
 # References
@@ -346,4 +346,4 @@
 - Crunchbase
 - Tech in Asia
 - Daily Social
-- My experience as I am living in Bandung at this moment.
+- My observation as I am living in Bandung Greater Area
