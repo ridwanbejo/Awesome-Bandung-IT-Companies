@@ -1,3 +1,4 @@
 # Contributors
 
-- [Ridwan Fadjar Septian](https://github.com/ridwanbejo)
+- [ridwanbejo](https://github.com/ridwanbejo)
+- [clasense4](https://github.com/clasense4)

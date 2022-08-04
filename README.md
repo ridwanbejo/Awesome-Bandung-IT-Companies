@@ -1,31 +1,40 @@
 # Awesome Bandung IT Companies
+
+## About the docs
+
+Bandung Greater Area is a region in West Java which is consists of Bandung City, Cimahi City, West Bandung Regency and Bandung Regency. The Greater Area is notorious for having some reputable university such as Institut Teknologi Bandung (ITB), Universitas Padjadjaran (UNPAD), Universitas Pendidikan Indonesia (UPI), Politeknik Negeri Bandung (Polban) Telkom University, Maranatha Christian University, Parahyangan Catholic University, Universitas Komputer Indonesia, Universitas Widayatama and many others which providing programme for Information Technology degree. Ranging from associate degree (D3) to doctoral (S3). That means Bandung Greater Area is potential IT hub that become source of workforces for Information Technology industry in Indonesia.
+
+We hope by maintain this documentation, you can find your interesting to employer in Bandung if you are a jobseeker. For businesses, both international or national scale, we hope you can find right business partner from Bandung. For students, we hope you can find a place for your internship or company when you graduate from your school or University.
+
+We believe that there are so many IT companies which are running their business in Bandung. But at this time we are only able to collect those companies from various online sources and observation. You can contribute to this documentation by following [HOW-TO guide](https://github.com/ridwanbejo/Awesome-Bandung-IT-Companies/blob/main/HOW-TO.md). You can also check who are [CONTRIBUTORS](https://github.com/ridwanbejo/Awesome-Bandung-IT-Companies/blob/main/CONTRIBUTORS.md) behind this repo.
+
 ## A. Based in Bandung
 
 ### A.1. E-Commerce
 
-- [Evermos](https://evermos.com)
-- [Eiger Tri Mahatma](https://eigeradventure.com/)
-- [Toko Distributor](https://www.tokodistributor.com/)
-- [Poolapack](https://www.poolapack.com/)
-- [eDot](https://edot.id/home-eShop)
-- [Halalpedia](https://www.halalpedia.com/about/)
 - [DealDeal](https://dealdeal.id/)
+- [eDot](https://edot.id/home-eShop)
+- [Eiger Tri Mahatma](https://eigeradventure.com/)
+- [Evermos](https://evermos.com)
+- [Halalpedia](https://www.halalpedia.com/about/)
 - [Inara Mart](https://inaramart.com/)
 - [Modeloka](https://modeloka.us/)
+- [Poolapack](https://www.poolapack.com/)
 - [Samesame Clothing](http://samesameclothing.com/)
+- [Toko Distributor](https://www.tokodistributor.com/)
 
 ### A.2. Tourism & Culinary
 
- - [Bobobox](https://bobobox.co.id/)
- - [Halal Local](https://halallocal.com/)
- - [SeleraKita](https://www.selerakita.id)
- - [Jaramba](https://jaramba.id/)
-
+- [Bobobox](https://bobobox.co.id/)
+- [Halal Local](https://halallocal.com/)
+- [Jaramba](https://jaramba.id/)
+- [SeleraKita](https://www.selerakita.id)
+ 
 ### A.3. Agriculture & Aqua Culture
 
+- [Biops Agro Tekno](https://www.biopsagrotekno.co.id/)
 - [e-Fishery](https://efishery.com/en/)
 - [Inagri](https://www.inagri.asia/)
-- [Biops Agro Tekno](https://www.biopsagrotekno.co.id/)
 
 ### A.4. Software As a Service
 
