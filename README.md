@@ -259,6 +259,7 @@ We believe that there are so many IT companies which are running their business 
 - [Suitmedia](https://suitmedia.com)
 - [Automate All](https://automateall.co.id/)
 - [HD Soluzion](https://www.hdsoluzion.com/)
+- [Sharing Vision](https://sharingvision.com)
 
 
 ### A.9. Financial Technology
