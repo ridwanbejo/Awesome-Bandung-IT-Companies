@@ -76,6 +76,7 @@
 - [Toska](https://toska.id/)
 - [Kidalang](http://kidalang.com/)
 - [Bryanto Studio](https://bryanto.itch.io/)
+- [Techpolitan](https://techpolitan.co/)
 
 
 ### A.6. Crowdsourcing
@@ -89,45 +90,46 @@
 - [Dicoding](https://www.dicoding.com/)
 - [Codepolitan](https://www.codepolitan.com/)
 - [Cilsy Fiolution](https://www.cilsyfiolution.com/)
-- Edureka
+- [Eudeka](https://www.eudeka.id/)
 - [Intelligo](https://intelligo.id)
+- [Alkademi](https://alkademi.id/)
 
 ### A.8. IT Services & Consulting
 
-- Swamedia Informatika
-- Infomedia Solusi Humanika
-- Walden Global Service
-- App Chef
-- Smooets
-- Radya Labs Teknologi
-- ARM Solusi
-- ITasoft
-- Sangkuriang International
+- [Swamedia Informatika](https://swamedia.co.id/)
+- [Infomedia Solusi Humanika](https://ish.co.id/)
+- [Walden Global Service](https://www.wgs.co.id/)
+- [AppsChef](https://www.appschef.com/)
+- [Smooets](https://www.smooets.com/)
+- [Radya Labs Teknologi](https://radyalabs.com/)
+- [ARM Solusi](https://armsolusi.com)
+- [ITasoft](https://itasoft.co.id/)
+- [Sangkuriang International](https://sangkuriang.co.id/)
 - [Sangkuriang Studio](https://sangkuriang.co.id/)
-- Data Aksara Sangkuriang
-- Inagi (Inovasi Anak Negeri)
-- Rolling Glory
-- LAPI Divusi
-- Braga Technologies
-- Boleh Dicoba
-- Tricada Intronik
-- Jabar Digital Service
-- Kazee
-- Kunci Transformasi Digital
-- Semesta Teknologi Informatika (STI Group)
+- [Data Aksara Sangkuriang](https://daksa.co.id/)
+- [Inagi ID (Inovasi Anak Digital)](https://inagi.id/)
+- [Rolling Glory](https://rollingglory.com/)
+- [LAPI Divusi](https://divusi.co.id/)
+- [Braga Technologies](https://braga.co.id/)
+- [Boleh Dicoba](https://bolehdicoba.com/)
+- [Tricada Intronik](https://tritronik.com/)
+- [Jabar Digital Service](https://digitalservice.jabarprov.go.id/)
+- [Kazee](https://kazee.id/)
+- [Kunci Transformasi Digital](https://kunci.co.id/)
+- [Semesta Teknologi Informatika (STI Group)](https://www.sti-group.co.id/)
 - [Whalez Tech](https://www.whalez.tech/)
-- iCreative Labs
-- Padepokan Tujuh Sembilan
-- Bee Solution Partner
-- Digital Oasis
-- Infinite Creative Teknologi
-- Quantus Telematika Indonesia
-- Millenia Solusi Informatika
-- SampulKreativ Technology
-- GITS
-- Bridge Techology Service
-- Workspez
-- Promedia Teknologi
+- [iCreative Labs](https://icreativelabs.com/)
+- [Padepokan Tujuh Sembilan](https://www.tujuhsembilan.com/)
+- [Bee Solution Partner](https://ptbsp.com/)
+- [Digital Oasis](https://digitaloasis.co.id/)
+- [Infinite Creative Teknologi](https://inct.co.id/)
+- [Quantus Telematika Indonesia](https://qti.co.id/)
+- [Millenia Solusi Informatika](https://millennia-solusi.id/)
+- [SampulKreativ Technology](https://www.sampulkreativ.com/)
+- [GITS](https://gits.id/)
+- [Bridge Techology Service](https://www.bts.id/)
+- [Workspez](https://www.workspez.id/)
+- [Promedia Teknologi](https://www.promediateknologi.com/)
 - [Five Code](https://five-code.com/)
 - [Kong Teknologi Asia](https://www.kongteknologiasia.com/)
 - [Cube Studio](https://cubestudio.id/pameran-virtual/)
