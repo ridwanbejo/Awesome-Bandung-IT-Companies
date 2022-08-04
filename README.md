@@ -261,7 +261,6 @@ We believe that there are so many IT companies which are running their business 
 - [Automate All](https://automateall.co.id/)
 - [HD Soluzion](https://www.hdsoluzion.com/)
 - [Sharing Vision](https://sharingvision.com)
-- [WGS](https://www.wgs.co.id)
 
 
 ### A.9. Financial Technology
