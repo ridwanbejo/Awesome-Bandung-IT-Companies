@@ -7,3 +7,4 @@
 - [azinudinachzab](https://github.com/azinudinachzab)
 - [rendy-faqot](https://github.com/rendy-faqot)
 - [ansharabdullah](https://github.com/ansharabdullah)
+- [zersya](https://github.com/zersya)

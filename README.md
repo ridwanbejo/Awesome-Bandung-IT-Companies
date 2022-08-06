@@ -372,7 +372,7 @@ We believe that there are so many IT companies which are running their business 
 - [Formulatrix](https://formulatrix.com/careers/indonesia/)
 - [Rekadia Solusi Teknologi](https://www.rekadia.co.id/)
 - [Toppan Ecquaria](https://toppanecquaria.com/)
-- [Dropsuite](https://dropsuite.com/)
+- [Work Life and Beyond](https://wlb.co.id)
 
 ### B.7. Shipping Agency
 
@@ -390,6 +390,11 @@ We believe that there are so many IT companies which are running their business 
 ### B.10. Cloud Computing / Web Hosting
 
 - [Telkom Sigma](https://www.telkomsigma.co.id/)
+- [Dropsuite](https://dropsuite.com/)
+
+### B.11. Tourism & Culinary
+
+- [247Go](https://247go.app)
 
 
 # References
