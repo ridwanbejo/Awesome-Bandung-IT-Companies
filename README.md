@@ -8,21 +8,33 @@ Bandung Greater Area is a region in West Java which is consists of Bandung City,
 -  Universitas Padjadjaran (UNPAD)
 -  Universitas Pendidikan Indonesia (UPI)
 -  Univesitas Islam Negeri Sunan Gunung Djati (UIN SGD)
--  Politeknik Negeri Bandung (Polban)
--  Politeknik Pos Indonesia (Poltekpos)
+-  Politeknik Negeri Bandung (POLBAN)
+-  Politeknik Pos Indonesia (POLTEKPOS)
 -  Telkom University (Tel-U)
 -  Universitas Maranatha
 -  Universitas Katolik Parahyangan (UNPAR)
 -  Universitas Komputer Indonesia (UNIKOM)
--  Universitas Widayatama
+-  Universitas Widyatama
 -  Universitas Pasundan (UNPAS)
 -  Institut Teknologi Nasional (ITENAS)
 -  Institut Teknologi Harapan Bangsa (ITHB)
--  Universitas Nasional Pasim
+-  Bina Nusantara University - Bandung Campus (BINUS)
 -  Universitas Informatika dan Bisnis Indonesia (UNIBI)
+-  Universitas Nasional Pasim
+-  Universitas Sangga Buana
+-  ARS University
+-  Universitas Muhammadiyah Bandung
+-  Universitas Bale Bandung
+-  Universitas Langlang Buana
+-  Universitas Nurtanio
+-  Politeknik TEDC
 -  Politeknik Piksi Ganesha
 -  Politeknik Pajajaran
--  LPKIA
+-  Institut Digital Ekonomi LPKIA
+-  STMIK LIKMI
+-  STMIK Bandung
+-  STT Bandung
+-  LP3I
 -  and many others
 
 Those universities are providing programme for Information Technology degree. Ranging from associate degree (D3) to doctoral (S3). That means Bandung Greater Area is potential IT hub that become source of workforces for Information Technology industry in Indonesia.
