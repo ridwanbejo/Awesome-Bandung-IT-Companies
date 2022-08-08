@@ -274,7 +274,8 @@ We believe that there are so many IT companies which are running their business 
 - [HD Soluzion](https://www.hdsoluzion.com/)
 - [Sharing Vision](https://sharingvision.com)
 - [Garuda Infinity](https://www.garudainfinity.com/)
-
+- [Adhivasindo](https://adhivasindo.co.id/)
+- [Digital Informasi Futuristik](https://dif.co.id/)
 
 ### A.9. Financial Technology
 
@@ -307,6 +308,7 @@ We believe that there are so many IT companies which are running their business 
 - [Media Karir](https://mediakarir.com/)
 - [GeekHunter](https://geekhunter.co)
 - [Bizlook](https://www.bizlook.id/)
+- [Hara Anargya](https://psikotes.anargya.id/)
 
 ### A.15. Healthcare and Medical Technology
 
@@ -338,6 +340,7 @@ We believe that there are so many IT companies which are running their business 
 
 - [Fammi](https://fammi.ly/)
 - [MyDigiLearn](https://mydigilearn.id/about-us)
+- [Linguo](https://linguo.id/)
 
 ### A.19. Telecommunication
 
@@ -349,7 +352,7 @@ We believe that there are so many IT companies which are running their business 
 
 - [Blibli](https://www.blibli.com/)
 - [Bukalapak](https://www.bukalapak.com/)
-- [99.co](https://www.99.co/id)
+- [99.co](https://www.99.co/id) 🇸🇬
 
 ### B.2. Financial Technology
 
@@ -360,32 +363,33 @@ We believe that there are so many IT companies which are running their business 
 ### B.3. Educational Technology
 
 - [RuangGuru](https://www.ruangguru.com)
-- [Solve Education](https://solveeducation.org/)
+- [Solve Education](https://solveeducation.org/) 🇸🇬
 
 ### B.4. Software As a Service
 
 - [Avana](https://avana.id/)
-- [Astronaut](https://astrnt.co/)
+- [Astronaut](https://astrnt.co/) 🇦🇺
 
 ### B.5. Healthcare Technology
 
-- [NiceDay Nederland](https://nicedaynederland.nl/en/about-us/)
-- [Attenza.nl](https://www.attenza.nl/over-attenza/)
-- [Mitla IT Laboratory Indonesia](https://mitla.co.id/)
+- [NiceDay Nederland](https://nicedaynederland.nl/en/about-us/) 🇳🇱
+- [Attenza.nl](https://www.attenza.nl/over-attenza/) 🇳🇱
+- [Mitla IT Laboratory Indonesia](https://mitla.co.id/) 🇯🇵
 
 ### B.6. IT Services & Consulting:
 
-- [Xtremax](https://xtremax.com/)
-- [GeekSeat](https://www.geekseat.com.au/)
-- [DevStack](https://www.devstack.com.au/)
-- [Mitrais](https://www.mitrais.com/)
-- [D-Shore](https://d-shore.nl/en/)
-- [Vox Teneo Asia](https://www.voxteneo.com/)
+- [Xtremax](https://xtremax.com/) 🇸🇬
+- [GeekSeat](https://www.geekseat.com.au/) 🇦🇺
+- [DevStack](https://www.devstack.com.au/) 🇦🇺
+- [Mitrais](https://www.mitrais.com/), 🇦🇺
+- [D-Shore](https://d-shore.nl/en/) 🇳🇱
+- [Vox Teneo Asia](https://www.voxteneo.com/) 🇧🇪 
 - [EBDesk](https://www.ebdesk.com/)
 - [Formulatrix](https://formulatrix.com/careers/indonesia/)
 - [Rekadia Solusi Teknologi](https://www.rekadia.co.id/)
 - [Toppan Ecquaria](https://toppanecquaria.com/)
 - [Work Life and Beyond](https://wlb.co.id)
+- [2359 Media](https://2359.co/) 🇸🇬
 
 ### B.7. Shipping Agency
 
@@ -403,11 +407,11 @@ We believe that there are so many IT companies which are running their business 
 ### B.10. Cloud Computing / Web Hosting
 
 - [Telkom Sigma](https://www.telkomsigma.co.id/)
-- [Dropsuite](https://dropsuite.com/)
+- [Dropsuite](https://dropsuite.com/) 🇦🇺
 
 ### B.11. Tourism & Culinary
 
-- [247Go](https://247go.app)
+- [247Go](https://247go.app) 🇲🇾
 
 
 # References
