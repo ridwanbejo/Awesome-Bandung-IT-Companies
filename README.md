@@ -2,7 +2,7 @@
 
 ## About the docs
 
-Bandung Greater Area is a region in West Java which is consists of Bandung City, Cimahi City, West Bandung Regency and Bandung Regency. The Greater Area is notorious for having some reputable university such as:
+Bandung Greater Area is a region in West Java which is consists of Bandung City, Cimahi City, West Bandung Regency and Bandung Regency. The Greater Area is well-known for having some reputable university such as:
 
 -  Institut Teknologi Bandung (ITB)
 -  Universitas Padjadjaran (UNPAD)
