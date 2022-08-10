@@ -102,7 +102,6 @@ We believe that there are so many IT companies which are running their business 
 - [OperStox](https://www.operstox.com)
 - [SazzBuzz](https://sasbuzz.com/#)
 - [Amiga ID](https://www.amiga.id/about)
-- [Delegasi](https://www.delegasi.co/)
 
 
 ### A.5. Game Studio & Augmented / Mixed / Virtual Reality
@@ -386,7 +385,7 @@ We believe that there are so many IT companies which are running their business 
 - [D-Shore](https://d-shore.nl/en/) 🇳🇱
 - [Vox Teneo Asia](https://www.voxteneo.com/) 🇧🇪 
 - [EBDesk](https://www.ebdesk.com/)
-- [Formulatrix](https://formulatrix.com/careers/indonesia/)
+- [Formulatrix](https://formulatrix.com/careers/indonesia/)🇺🇸
 - [Rekadia Solusi Teknologi](https://www.rekadia.co.id/)
 - [Toppan Ecquaria](https://toppanecquaria.com/)
 - [Work Life and Beyond](https://wlb.co.id)
