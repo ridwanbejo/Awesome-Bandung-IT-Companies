@@ -102,6 +102,7 @@ We believe that there are so many IT companies which are running their business 
 - [OperStox](https://www.operstox.com)
 - [SazzBuzz](https://sasbuzz.com/#)
 - [Amiga ID](https://www.amiga.id/about)
+- [Delegasi](https://www.delegasi.co/)
 
 
 ### A.5. Game Studio & Augmented / Mixed / Virtual Reality
