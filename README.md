@@ -100,6 +100,7 @@ We believe that there are so many IT companies which are running their business 
 | Finata        | Finata        | https://finata.id/                                            |                |
 | IndiePOS      | IndiePOS      | https://indieomnipos.com/                                     |                |
 | Jarvis Store  | Jarvis Store  | https://jarvis-store.com/welcome                              |                |
+| Kirim Email   | Kirim Email   | https://kirim.email/                                          |                |
 | LanterLite    | LanterLite    | https://www.lanterlite.com/                                   |                |
 | LenMarc       | LenMarc       | https://www.lenmarc.com/                                      |                |
 | MyLoca        | MyLoca        | https://myloca.id/                                            |                |
@@ -108,6 +109,7 @@ We believe that there are so many IT companies which are running their business 
 | OrderDulu     | OrderDulu     | https://orderdulu.com/                                        |                |
 | OrderOnline   | OrderOnline   | https://orderonline.id                                        |                |
 | Prosa.ai      | Prosa.ai      | https://prosa.ai/                                             |                |
+| Utas          | Utas          | https://utas.co/                                              |                |
 | Qoligo        | Qoligo        | https://qoligo.com/                                           |                |
 | SazzBuzz      | SazzBuzz      | https://sasbuzz.com/#                                         |                |
 | SindigiLive   | SindigiLive   | https://sindigilive.com/                                      |                |
