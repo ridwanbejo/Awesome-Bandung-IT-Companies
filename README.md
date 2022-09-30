@@ -51,7 +51,7 @@ We believe that there are so many IT companies which are running their business 
 |-------------------|--------------------|-----------------------------------|-------------|
 | DealDeal          | DealDeal           | https://dealdeal.id/              |             |
 | eDot              | eDot               | https://edot.id/home-eShop        |             |
-| Eiger Tri Mahatma | Eiger Tri Mahatma  | https://eigeradventure.com/       |             |
+| Eigen Tri Mathema | Eiger Tri Mathema  | https://eigen.co.id               |             |
 | Evermos           | Evermos            | https://evermos.com               |             |
 | Halalpedia        | Halalpedia         | https://www.halalpedia.com/about/ |             |
 | Inara Mart        | Inara Mart         | https://inaramart.com/            |             |
